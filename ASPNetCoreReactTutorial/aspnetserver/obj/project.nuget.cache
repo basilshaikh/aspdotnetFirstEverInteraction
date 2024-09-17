@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xV7+Zi2iJwMJEMFjj+rFjRchm5f8xVlnq2rmctL8rhmREFIM5IOn1xtKQIDSd1y+/brlI9khArW7W9MZfFNt8w==",
+  "dgSpecHash": "0qbX3XAYZe7psqDbuJsY31NuTteDTauWHcFXrPnkUeJnELBMjlFqsAVN8DFMNnAdPGf8ndj6ZVe2Az0+D+HfDQ==",
   "success": true,
-  "projectFilePath": "E:\\Practice\\react.net\\ASPNetCoreReactTutorial\\aspnetserver\\aspnetserver.csproj",
+  "projectFilePath": "E:\\Practice\\aspdotnetFirstEverInteraction\\ASPNetCoreReactTutorial\\aspnetserver\\aspnetserver.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Basil\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Basil\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.20\\microsoft.data.sqlite.core.7.0.20.nupkg.sha512",

@@ -1755,11 +1755,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Practice\\react.net\\ASPNetCoreReactTutorial\\aspnetserver\\aspnetserver.csproj",
+      "projectUniqueName": "E:\\Practice\\aspdotnetFirstEverInteraction\\ASPNetCoreReactTutorial\\aspnetserver\\aspnetserver.csproj",
       "projectName": "aspnetserver",
-      "projectPath": "E:\\Practice\\react.net\\ASPNetCoreReactTutorial\\aspnetserver\\aspnetserver.csproj",
+      "projectPath": "E:\\Practice\\aspdotnetFirstEverInteraction\\ASPNetCoreReactTutorial\\aspnetserver\\aspnetserver.csproj",
       "packagesPath": "C:\\Users\\Basil\\.nuget\\packages\\",
-      "outputPath": "E:\\Practice\\react.net\\ASPNetCoreReactTutorial\\aspnetserver\\obj\\",
+      "outputPath": "E:\\Practice\\aspdotnetFirstEverInteraction\\ASPNetCoreReactTutorial\\aspnetserver\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Basil\\AppData\\Roaming\\NuGet\\NuGet.Config",
