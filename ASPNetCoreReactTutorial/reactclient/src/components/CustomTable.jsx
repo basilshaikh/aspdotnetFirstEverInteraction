@@ -10,7 +10,7 @@ import EditIcon from '@mui/icons-material/Edit';
 import DeleteIcon from '@mui/icons-material/Delete';
 
 
-export default function CustomTable({posts}) {
+export default function CustomTable({posts, setPostUpdated, deletePost}) {
   return (
     <TableContainer component={Paper}>
       <Table sx={{ minWidth: 650 }} aria-label="simple table">
@@ -35,8 +35,12 @@ export default function CustomTable({posts}) {
             <TableCell>{post.content}</TableCell>
             <TableCell>
               <div className='icons flex'>
-                <EditIcon />
-                <DeleteIcon />
+                <EditIcon onClick={() => setPostUpdated(post)}/>
+                <DeleteIcon
+                  onClick={() => {
+                    if (window.confirm(`Are you sure you want to delete the post titled "${post.title}"?`)) deletePost(post.postId)
+                  }}
+                />
               </div>
             </TableCell>
           </TableRow>
